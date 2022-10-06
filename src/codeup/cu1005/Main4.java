@@ -2,7 +2,7 @@ package codeup.cu1005;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main4 {
     public static void main(String[] args) {
         char x, y;
 
