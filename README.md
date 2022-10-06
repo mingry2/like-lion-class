@@ -1,4 +1,11 @@
 # likelion back-end school 2th
+## class 1006
+##### * 과제 : CodeUp 1021~1024
+##### * 수업 내용
+##### 1. 
+
+<br/>
+
 ## class 1005
 ##### * 과제 : CodeUp 1011~1020
 ##### * 수업 내용 
