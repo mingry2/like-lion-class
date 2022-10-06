@@ -10,6 +10,7 @@ public class LikeLion2th {
 
     Names names = new Names();
     public LikeLion2th() {
+        // this.students = new ArrayList<>();
         names.getName(students);
         this.studentObjs = names.getStudentObjs();
     }

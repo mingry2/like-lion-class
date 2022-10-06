@@ -1,4 +1,4 @@
-package studyclass.java_1006.RndNumber;
+package studyclass.java_1006.rndnumber;
 
 public class RandomNumberGenerator implements NumberGenerator{
     @Override
