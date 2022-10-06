@@ -7,6 +7,12 @@ import java.io.FileReader;
 import java.io.IOException;
 
 public class ReadFile {
+    private String filename;
+
+    public ReadFile(String filename){
+        this.filename = filename;
+    }
+
     public void printFiles() {
         File dir = new File("./");
         // 디렉토리로 접근
@@ -33,14 +39,29 @@ public class ReadFile {
         return str;
     }
 
+    public String readNChars(int N) throws IOException {
+        FileReader fileReader = new FileReader(this.filename);
+        String str = "";
+        for(int i = 0; i < N; i++) {
+            int asciiCd = fileReader.read();
+            if(asciiCd == -1) {
+                return str;
+            }
+            str += (char) asciiCd;
+        }
+        return str;
+    }
+
     public static void main(String[] args) throws IOException {
         // './' 현재 디렉토리에서 불러오기 (path 찾기가 제일 간단)
         // FileReader fileReader = new FileReader("./a_file.txt");
         // FileReader 읽어오는                         ㄴ 파일위치, 파일명
         // 파일이 없을 때 예외가 날수있기때문에 thows
-        ReadFile readFile = new ReadFile();
-        String c = readFile.read2Chars("a_file.txt");
-        System.out.println(c);
+            ReadFile readFile = new ReadFile("a_file.txt");
+//        String c = readFile.read2Chars("a_file.txt");
+//        System.out.println(c);
+            String c = readFile.readNChars(3);
+            System.out.println(c);
 /*
 안녕
  */
