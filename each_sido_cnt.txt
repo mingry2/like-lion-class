@@ -1,0 +1,500 @@
+key:129,48 value:23540
+
+key:920,47 value:2725
+
+key:330,48 value:42103
+
+key:250,48 value:57737
+
+key:250,47 value:9879
+
+key:245,28 value:34048
+
+key:285,41 value:34884
+
+key:480,41 value:63525
+
+key:170,42 value:10521
+
+key:130,45 value:30653
+
+key:170,48 value:39425
+
+key:130,42 value:48382
+
+key:170,47 value:17161
+
+key:130,43 value:25716
+
+key:170,46 value:16537
+
+key:210,44 value:22677
+
+key:210,42 value:11865
+
+key:130,46 value:31236
+
+key:210,41 value:29809
+
+key:130,47 value:27450
+
+key:320,11 value:30332
+
+key:210,47 value:10069
+
+key:210,45 value:8915
+
+key:273,41 value:36995
+
+key:720,28 value:3804
+
+key:760,42 value:4648
+
+key:760,44 value:5482
+
+key:440,11 value:52319
+
+key:760,43 value:5185
+
+key:760,47 value:1405
+
+key:800,42 value:2776
+
+key:800,43 value:2542
+
+key:170,31 value:14894
+
+key:800,41 value:5031
+
+key:880,48 value:6432
+
+key:130,50 value:25406
+
+key:800,46 value:3450
+
+key:112,43 value:25097
+
+key:800,44 value:10272
+
+key:800,45 value:5202
+
+key:171,41 value:27534
+
+key:790,42 value:3445
+
+key:360,41 value:87624
+
+key:790,44 value:3228
+
+key:790,45 value:5310
+
+key:123,48 value:23211
+
+key:870,46 value:5693
+
+key:870,48 value:4054
+
+key:710,11 value:80770
+
+key:200,11 value:33733
+
+key:610,41 value:46372
+
+key:117,41 value:46091
+
+key:720,42 value:7485
+
+key:720,43 value:3096
+
+key:720,46 value:2917
+
+key:720,45 value:2649
+
+key:590,11 value:53897
+
+key:720,48 value:2810
+
+key:720,47 value:2248
+
+key:250,44 value:6210
+
+key:440,26 value:20212
+
+key:250,41 value:12145
+
+key:200,27 value:18996
+
+key:200,26 value:11840
+
+key:790,46 value:8252
+
+key:350,11 value:47856
+
+key:131,41 value:30745
+
+key:131,44 value:30929
+
+key:830,41 value:15949
+
+key:830,42 value:3595
+
+key:290,27 value:48204
+
+key:240,48 value:12180
+
+key:125,48 value:21178
+
+key:290,26 value:27961
+
+key:200,29 value:46176
+
+key:200,28 value:57277
+
+key:830,46 value:6597
+
+key:830,47 value:2992
+
+key:461,41 value:34947
+
+key:200,31 value:22240
+
+key:570,41 value:56997
+
+key:200,30 value:50018
+
+key:910,46 value:4630
+
+key:410,11 value:36970
+
+key:390,41 value:63004
+
+key:770,42 value:3930
+
+key:770,43 value:11642
+
+key:770,44 value:4855
+
+key:770,45 value:2648
+
+key:770,46 value:5871
+
+key:770,47 value:3444
+
+key:350,26 value:43050
+
+key:140,45 value:31908
+
+key:200,44 value:46903
+
+key:280,47 value:9250
+
+key:410,26 value:27587
+
+key:630,41 value:27926
+
+key:560,11 value:54314
+
+key:170,30 value:62246
+
+key:880,46 value:5428
+
+key:450,41 value:48036
+
+key:890,48 value:4009
+
+key:290,47 value:37653
+
+key:290,41 value:12381
+
+key:113,41 value:41567
+
+key:170,29 value:52697
+
+key:780,46 value:3970
+
+key:113,47 value:30497
+
+key:170,27 value:15231
+
+key:170,26 value:11626
+
+key:780,42 value:4412
+
+key:113,45 value:42043
+
+key:113,43 value:38090
+
+key:730,48 value:5659
+
+key:730,47 value:4561
+
+key:730,46 value:2904
+
+key:730,45 value:2474
+
+key:730,43 value:5379
+
+key:730,42 value:5250
+
+key:900,47 value:5883
+
+key:230,11 value:44836
+
+key:180,44 value:11176
+
+key:900,46 value:3265
+
+key:180,45 value:10507
+
+key:135,41 value:54847
+
+key:410,41 value:26420
+
+key:840,46 value:14943
+
+key:170,11 value:31582
+
+key:670,41 value:12787
+
+key:840,47 value:4331
+
+key:840,48 value:3735
+
+key:173,41 value:35949
+
+key:150,42 value:27412
+
+key:260,11 value:44157
+
+key:150,43 value:14407
+
+key:150,41 value:53049
+
+key:110,28 value:26644
+
+key:110,29 value:16022
+
+key:110,26 value:6792
+
+key:110,27 value:11119
+
+key:310,41 value:20178
+
+key:230,46 value:19604
+
+key:230,44 value:12140
+
+key:230,42 value:6916
+
+key:310,48 value:26125
+
+key:185,28 value:44156
+
+key:305,11 value:31950
+
+key:740,48 value:6745
+
+key:820,42 value:4304
+
+key:820,41 value:7870
+
+key:740,43 value:4458
+
+key:380,26 value:32355
+
+key:740,45 value:2063
+
+key:110,36 value:57001
+
+key:465,41 value:37235
+
+key:500,11 value:75013
+
+key:110,31 value:20781
+
+key:115,41 value:31933
+
+key:820,48 value:5060
+
+key:820,46 value:6403
+
+key:110,30 value:29065
+
+key:820,47 value:4232
+
+key:620,11 value:87855
+
+key:270,48 value:10580
+
+key:230,30 value:19244
+
+key:940,47 value:1679
+
+key:270,44 value:21871
+
+key:140,11 value:17760
+
+key:380,11 value:50993
+
+key:230,27 value:47051
+
+key:230,26 value:45929
+
+key:890,46 value:4624
+
+key:133,44 value:56148
+
+key:825,44 value:7109
+
+key:133,41 value:25689
+
+key:150,46 value:31866
+
+key:150,47 value:16476
+
+key:150,44 value:12006
+
+key:110,11 value:20008
+
+key:281,41 value:55166
+
+key:745,43 value:4847
+
+key:550,41 value:26483
+
+key:140,30 value:26290
+
+key:850,47 value:12773
+
+key:140,31 value:36336
+
+key:850,48 value:3888
+
+key:290,11 value:48287
+
+key:545,11 value:33251
+
+key:500,26 value:25020
+
+key:190,47 value:48623
+
+key:190,45 value:8070
+
+key:140,26 value:12103
+
+key:140,27 value:39216
+
+key:140,28 value:6546
+
+key:190,42 value:3769
+
+key:140,29 value:36884
+
+key:190,41 value:82032
+
+key:230,47 value:13867
+
+key:650,11 value:50992
+
+key:114,43 value:25596
+
+key:750,45 value:2921
+
+key:750,43 value:11616
+
+key:750,42 value:4941
+
+key:750,47 value:2523
+
+key:530,26 value:21856
+
+key:680,11 value:72706
+
+key:220,41 value:96670
+
+key:710,31 value:23991
+
+key:111,47 value:27251
+
+key:470,26 value:23601
+
+key:111,45 value:39895
+
+key:111,43 value:21514
+
+key:111,41 value:32751
+
+key:650,41 value:19204
+
+key:237,28 value:53794
+
+key:215,11 value:46638
+
+key:810,42 value:5324
+
+key:810,44 value:7388
+
+key:810,46 value:3494
+
+key:930,47 value:5332
+
+key:740,11 value:58051
+
+key:590,41 value:121123
+
+key:710,27 value:28996
+
+key:710,26 value:21938
+
+key:177,28 value:55398
+
+key:710,28 value:7769
+
+key:500,41 value:33333
+
+key:320,26 value:29231
+
+key:470,11 value:42578
+
+key:127,48 value:15373
+
+key:110,50 value:61128
+
+key:463,41 value:47594
+
+key:287,41 value:28807
+
+key:430,41 value:16936
+
+key:860,48 value:3659
+
+key:860,46 value:3275
+
+key:155,29 value:27384
+
+key:260,27 value:40079
+
+key:260,26 value:27784
+
+key:260,28 value:67097
+
+key:220,48 value:12347
+
+key:530,11 value:43175
+
+key:271,41 value:43105
+
+key:710,45 value:10353
+
+key:121,48 value:23691
+
+key:710,44 value:4981
+
+key:110,46 value:26596
+
+key:370,41 value:29235
+
+key:710,46 value:5530
+
+key:110,42 value:37403
+
