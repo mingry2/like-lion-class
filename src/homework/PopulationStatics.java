@@ -1,7 +1,4 @@
-package homework.codeup;
-
-import com.sun.istack.internal.NotNull;
-import studyclass.java_1007.PopulationStatistics;
+package homework;
 
 import java.io.*;
 import java.util.ArrayList;

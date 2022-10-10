@@ -1,4 +1,4 @@
-package homework.codeup;
+package homework;
 
 import javax.lang.model.element.NestingKind;
 
