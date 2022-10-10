@@ -3,8 +3,8 @@
 ## class 1007
 ##### * 과제 : CodeUp 1031~1040
 ##### * 수업 내용 
-##### 1. PopulationMove, PopulationStatisics - 대용량파일처리하기
-##### * homework - 대용량파일처리하기 복습
+##### 1. PopulationMove, PopulationStatistics-대용량파일처리하기
+##### * homework-대용량파일처리하기 복습
 <br/>
 
 ## class 1006
