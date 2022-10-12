@@ -1,12 +1,21 @@
 package babalion.day3;
 
 public class GuguDan {
-    public static void main(String[] args) {
+    public void printGugudan(int dan){
+        for(int i = 1; i <= 9; i++){
+            System.out.println(dan * i);
+        }
+    }
+    public void printPlus(int dan){
+        for(int i = 1; i <= 9; i++){
+            System.out.println(dan + i);
+        }
+    }
 
-        for(int i = 2; i <= 9; i++){
-            for(int j = 1; j <= 9; j++){
-                System.out.println(i + "*" + j + "=" + i*j);
-            }
+    public static void main(String[] args) {
+        GuguDan gugudan = new GuguDan();
+        for(int j = 2; j <=9; j++) {
+            gugudan.printGugudan(j);
         }
     }
 }
