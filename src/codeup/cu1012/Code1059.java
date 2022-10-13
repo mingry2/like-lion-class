@@ -1,0 +1,13 @@
+package codeup.cu1012;
+
+import java.util.Scanner;
+
+public class Code1059 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int a = sc.nextInt();
+        System.out.printf("%d", ~a);
+    }
+    //2
+    //-3
+}
