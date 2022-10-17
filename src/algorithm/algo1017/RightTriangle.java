@@ -1,7 +1,7 @@
 package algorithm.algo1017;
 
 public class RightTriangle {
-    public void star(int num) {
+    public void printStar(int num) {
         for(int i = 0; i < num; i++){
             for(int j = 0; j <= i; j++) {
                 System.out.print("*");
@@ -12,6 +12,6 @@ public class RightTriangle {
 
     public static void main(String[] args) {
         RightTriangle rt = new RightTriangle();
-        rt.star(4);
+        rt.printStar(4);
     }
 }
